@@ -1,0 +1,12 @@
+{
+  "name": "sp2am",
+  "version": "1.0.0",
+  "description": "A tool to convert spotify playlists to apple music playlists",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Odell Blackmon III",
+  "license": "MIT"
+}
